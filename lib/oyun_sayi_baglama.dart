@@ -1,4 +1,4 @@
-/// Sayı Bağlama (Number Link): Bulmaca ve Sayı merkez uygulamasının oyunu.
+/// Sayı Bağlama (Connect Numbers): Bulmaca ve Sayı merkez uygulamasının oyunu.
 library;
 
 import 'package:bulmaca_motoru/bulmaca_motoru.dart';
@@ -13,7 +13,7 @@ final sayiBagConfig = GameConfig(
   gameId: sayiBagId,
   title: const [
       'Sayı Bağlama',
-      'Number Link',
+      'Connect Numbers',
       'Zahlenverbindung',
       'Enlaza Números',
       'Relie les Nombres',
@@ -35,7 +35,7 @@ final sayiBagConfig = GameConfig(
       'Talforbindelse',
       'Tallforbindelse',
       'Lukuyhteys',
-      'ナンバーリンク',
+      '数字つなぎ',
       '숫자 잇기',
       '数字连线',
       'अंक जोड़ो',
